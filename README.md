@@ -40,7 +40,7 @@ Focused on building real-time automation projects
 
 ## 🌱 Currently Learning
 - [API Testing (Postman)]
-- [Advanced Selenium Framework]
+- [Advanced Selenium Framework Design]
   
 ## ⚡ Fun Fact
 I enjoy turning manual test cases into automation scripts 🚀
@@ -50,5 +50,3 @@ I enjoy turning manual test cases into automation scripts 🚀
 </div>
 
 ---
-
-**Note:** Customize this template with your personal details, skills, and projects. Paste this into your `README.md` file on GitHub.
