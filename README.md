@@ -1,13 +1,12 @@
 # Hi there 👋, I'm Likhitha Bai
 
-A passionate Software Developer from India 🚀
+A passionate QA Fresher| SDET Tester| Automation Tester from India 🚀
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=likhithabai-g&show_icons=true&theme=radical&hide_border=true)
 
 ## 📫 How to reach me:
-- ✉️ Email: your.email@example.com
-- 🔗 LinkedIn: linkedin.com/in/yourprofile
-- 🐦 Twitter: @yourtwitter
+- ✉️ Email: likhithabai208@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/likhitha-bai-998440306/
 
 ## 🛠️ My Skills
 ### Languages and Tools:
