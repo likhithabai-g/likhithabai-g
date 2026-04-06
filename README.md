@@ -1,13 +1,13 @@
 # Hi there 👋, I'm Likhitha Bai
 
-A passionate QA Fresher| SDET Tester| Automation Tester from India 🚀
+QA Fresher| SDET Tester| Automation Tester 🚀
 
 💼 About Me
 Passionate about Software Testing and Automation
 Hands-on experience with Selenium WebDriver and Java
 Good understanding of TestNG and test execution
 Focused on building real-time automation projects
-(https://github-readme-stats.vercel.app/api?username=likhithabai-g&show_icons=true&theme=radical&hide_border=true)
+
 
 ## 📫 How to reach me:
 - ✉️ Email: likhithabai208@gmail.com
@@ -18,6 +18,14 @@ Focused on building real-time automation projects
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 <!-- Add more badges as per your skills -->
+🛠️ Skills
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Selenium-WebDriver-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-Programming-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TestNG-Testing-FF6F00?style=for-the-badge&logo=testng&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-Database-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
 ## 🔥 My Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=likhithabai-g&layout=compact&theme=radical)
