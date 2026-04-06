@@ -25,9 +25,6 @@ Focused on building real-time automation projects
   <img src="https://img.shields.io/badge/GitHub-CodeHosting-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-## 🔥 My Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=likhithabai-g&layout=compact&theme=radical)
-
 ## 📊 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=likhithabai-g&theme=radical)
 
