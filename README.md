@@ -2,7 +2,12 @@
 
 A passionate QA Fresher| SDET Tester| Automation Tester from India 🚀
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=likhithabai-g&show_icons=true&theme=radical&hide_border=true)
+💼 About Me
+Passionate about Software Testing and Automation
+Hands-on experience with Selenium WebDriver and Java
+Good understanding of TestNG and test execution
+Focused on building real-time automation projects
+(https://github-readme-stats.vercel.app/api?username=likhithabai-g&show_icons=true&theme=radical&hide_border=true)
 
 ## 📫 How to reach me:
 - ✉️ Email: likhithabai208@gmail.com
