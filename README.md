@@ -33,8 +33,8 @@ Focused on building real-time automation projects
 ## 💻 My Projects
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
-| [demo-1](https://github.com/likhithabai-g/demo-1) | This is my first Git Repository | - | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/likhithabai-g/demo-1) |
 | [myFirstDoc](https://github.com/likhithabai-g/myFirstDoc) | HTML page hosting | HTML | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/likhithabai-g/myFirstDoc) |
+| [Planify](https://github.com/likhithabai-g/Planify) | HTML WebPage | HTML | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/likhithabai-g/Planify) |
 | [Selenium Framework](https://github.com/likhithabai-g/SelniumFrameWork) | Selenium FrameWork With Java | Selenium | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/likhithabai-g/SelniumFrameWork) |
 <!-- Add more projects here -->
 
