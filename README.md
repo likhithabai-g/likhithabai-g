@@ -3,7 +3,7 @@
 QA Fresher| SDET Tester| Automation Tester 🚀
 
 💼 About Me
-Passionate about Software Testing and Automation
+Passionate about Manual Testing and Automation
 Hands-on experience with Selenium WebDriver and Java
 Good understanding of TestNG and test execution
 Focused on building real-time automation projects
@@ -13,18 +13,16 @@ Focused on building real-time automation projects
 - ✉️ Email: likhithabai208@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/likhitha-bai-998440306/
 
-## 🛠️ My Skills
-### Languages and Tools:
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-<!-- Add more badges as per your skills -->
 🛠️ Skills
 
 <p align="left">
+   <img src="https://img.shields.io/badge/Manual%20Testing-QA-blueviolet?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Selenium-WebDriver-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-Programming-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/TestNG-Testing-FF6F00?style=for-the-badge&logo=testng&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-Database-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-VersionControl-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-CodeHosting-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ## 🔥 My Stats
