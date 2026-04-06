@@ -39,15 +39,11 @@ Focused on building real-time automation projects
 <!-- Add more projects here -->
 
 ## 🌱 Currently Learning
-- [List what you're learning, e.g., React, Docker]
-
-## 📚 Fun Fact
-[Add a fun fact about yourself]
-
----
-
-⭐️ From India  
-⚡ Fun fact: [something fun]
+- [API Testing (Postman)]
+- [Advanced Selenium Framework]
+  
+## ⚡ Fun Fact
+I enjoy turning manual test cases into automation scripts 🚀
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=likhithabai-g&color=green" alt="Visitor Badge" />
