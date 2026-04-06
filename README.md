@@ -23,6 +23,8 @@ Focused on building real-time automation projects
   <img src="https://img.shields.io/badge/SQL-Database-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-VersionControl-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-CodeHosting-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-CI%2FCD-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 ## 📊 GitHub Streak
@@ -33,6 +35,7 @@ Focused on building real-time automation projects
 |---------|-------------|------------|------|
 | [demo-1](https://github.com/likhithabai-g/demo-1) | This is my first Git Repository | - | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/likhithabai-g/demo-1) |
 | [myFirstDoc](https://github.com/likhithabai-g/myFirstDoc) | HTML page hosting | HTML | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/likhithabai-g/myFirstDoc) |
+| [Selenium Framework](https://github.com/likhithabai-g/SelniumFrameWork) | Selenium FrameWork With Java | Selenium | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/likhithabai-g/SelniumFrameWork) |
 <!-- Add more projects here -->
 
 ## 🌱 Currently Learning
